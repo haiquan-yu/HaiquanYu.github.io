@@ -4,19 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hello! My name is Haiquan Yu. I am a master’s student at the School of Software, Dalian University of Technology, starting in 2024, and I am fortunate to be advised by Professor Fangming Zhong. My research focuses on multimodal feature alignment and cross-modal learning under noisy conditions. I am also deeply interested in large language models and video understanding.
+
+If you’re interested in collaboration or just want to chat, feel free to get in touch!
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Robust Multimodal Learning:** Noisy Correspondence, Image-Text Matching, Video-Text Retrieval
+- **LLM:** RAG, Multi-Agents, Application of MLLMs
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Nov. 2025]** One paper about Noisy Correspondence is accepted to AAAI 2026.
+
 
 {% include_relative _includes/publications.md %}
 
