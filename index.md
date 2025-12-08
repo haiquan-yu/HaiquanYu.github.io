@@ -20,4 +20,3 @@ If you’re interested in collaboration or just want to chat, feel free to get i
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
