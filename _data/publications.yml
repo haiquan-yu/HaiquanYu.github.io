@@ -16,7 +16,7 @@ main:
     conference: The 40th AAAI Conference on Artificial Intelligence.
     pdf: http://ubinec.org/zfm/src/publication/HaNa.pdf
     code: https://github.com/haiquan-yu/HaNa
-    notes: Haiquan Yu conceived the idea and wrote the paper
+    notes: Conceived the idea and wrote the paper
     image: ./assets/img/hanaframework.png
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
